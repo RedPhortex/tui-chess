@@ -1,6 +1,8 @@
 [package]
 name = "tui-chess"
 version = "0.1.0"
+license = "MIT"
+description = "A tui chess game written in rust."
 edition = "2021"
 
 [dependencies]
